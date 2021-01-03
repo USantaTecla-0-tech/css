@@ -1,0 +1,34 @@
+body {
+    background-color: black;    
+}
+
+h1 {
+    color:orange;
+    text-align: center;
+    font-size: 40px;
+}
+
+#box {
+    margin-top: 50px;
+    padding-left: 100px;
+}
+
+.medio {
+    width: 40px;
+    height: 18px;
+    float: left;
+}
+
+.number {
+    color: orange;
+    text-align: center;
+    width: 80px;
+    height: 18px;
+    float: left;
+    font-size: 30px;
+}
+
+.end {
+    clear: left;
+    height: 18px;
+}

@@ -1,4 +1,3 @@
-
 table {
   border-collapse:separate;
   border-spacing: 2px;
@@ -21,11 +20,12 @@ thead ,th{
   color: rgb(218, 110, 228);
 }
 
-.total {
+.paradigmSummary {
   font-style: italic;
+  color: rgb(34, 138, 34);
 }
 
-.paradigma {
+.paradigm {
   font-style: oblique;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   color: rgba(40, 151, 58, 0.418);
